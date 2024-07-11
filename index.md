@@ -1,19 +1,52 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jacek Wieteska's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jacek Wieteska
+Data analyst, IT Security Analyst.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="theesccode@gmail.com">theesccode@gmail.com</a>
+| <a href="https://esccode.pl">My web page</a>
 </div>
 
 
 ## Currently
 
 Standing on the shoulders of giants
+
+## Experience
+
+`01/2021-12/2022`
+__Tooling Engineer, ATOS Poland sp. z o.o.__
+
+- Provided support for UE clients during transitions, involving three tools:
+  - BMC TrueSight Server Automation
+  - Monitoring Tool (SCOM)
+  - Custom Monitoring Tool (Centreon)
+
+`11/2014-09/2020`
+__VoIP Network Administrator, IPCall sp. z o.o.__
+
+ - Provided support for VoIP infrastructure, including license management and certificate maintenance, involving tools:
+   - VoIPSwitch
+   - PLICBD(Location and Information Platform with Central Database)
+   - Technical Writing
+
+`09/2014-10/2014`
+__VoIP Service Specialist, ALGO Poland sp. z o.o__
+
+ - Provided support for VoIP infrastructure, involving tools:
+   - October CMS
+   - Proxmox Virtual Environment
+   - IPPBX (i.e.: Asterisk, Elastix, Askozia)
+
+`09/2007-02/2009`
+__Customer Advisor for Internet DSL, ORANGE Poland sp. z o.o__
+
+ - Provided support for business customer service for internet DSL. Remotely troubleshooting client network devices.
+
+
 
 ### Specialized in
 
