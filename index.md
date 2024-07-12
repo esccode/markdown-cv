@@ -11,7 +11,7 @@ Data analyst, IT Security Analyst.
 </div>
 
 
-## Currently on a career break
+## Health and well-being, Career Break
 
 - Engaged in various activities:
   - CompTIA CySA+ CS0-003, Training status
@@ -25,7 +25,7 @@ Data analyst, IT Security Analyst.
 ## Experience
 
 `01/2021-12/2022`
-__Tooling Engineer, ATOS Poland sp. z o.o.__, Bydgoszsz, Remote
+__Tooling Engineer, ATOS Poland R&D sp z o.o.__, Bydgoszsz, Remote
 
 - Provided support for UE clients during transitions, involving three tools:
   - BMC TrueSight Server Automation
@@ -51,83 +51,64 @@ __VoIP Service Specialist, ALGO Poland sp. z o.o__, Radom, on-site
 `09/2007-02/2009`
 __Customer Advisor for Internet DSL, ORANGE Poland sp. z o.o__, Warsaw, on-site
 
- - Provided support for business customer service for internet DSL. Remotely troubleshooting client network devices.
-
-
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+  - provided support for business customer service for internet DSL.
+  - remotely troubleshooting client network devices.
 
 
 ### interests
 
-- Podcasts: Radionaukowe, Cyber Security Headline, Digital Forensics Files, Global News Podcast
-- E-commerce
-- Sports: badminton, football, bicycle
+- Podcasts: Radionaukowe, Cyber Security Headline, Digital Forensics Files, Global News Podcast, TWIT TV(security Now),
+- E-commerce,
+- Sports: badminton, football, bicycle.
+- Digital Currencies
+- Grooming
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`03/2008`
+__University of Warsaw__,  Master's degree, Faculty of Law and Administration, On-site
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Licenses & Certifications
 
-- Sizar
+`Issued 04/2024 - Expires 04/2027` __CompTIA Security+ CERTIFIED.CE__, Online
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Issued 02/2024 - Expires 02/2027` __CompTIA Data+ CERTIFIED.CE__, Online
 
-- Fellow
+`Issued 12/2023` __Introduction to Digital Currencies__, 
+University of Nicosia, Online
+
+`Issued 01/2023` __Learning Markdown__, Linkedin, Online
+
+`Issued 10/2022` __BMC Certified Associate: TrueSight Server Automation 20.x__, Online
+
+`Issued 12/2020` __Python Developer__, strefakursow.pl, Online
+
+`Issued 01/2011` __IP PBX / Implementations and Administration__, Master Telecom, On-site
+
+`Issued 12/2005` __English for Speakers of Other Languages, Speaking and Listening Entry 3(B1)__, University of Cambridge Crawley/UK, On-site
 
 
 
 ## Awards
 
 `05/2021`
-__Accolade Award Bravo - ATOS Poland R&D sp z o.o.__
+__Accolade Award Bravo, ATOS Poland R&D sp z o.o.__
  
 - Successfully facilitated client transitions
 
 
 
-## Publications
+<!-- ## Publications -->
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+<!-- ### Journals -->
 
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2024
 
 
