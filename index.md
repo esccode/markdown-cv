@@ -7,18 +7,25 @@ Data analyst, IT Security Analyst.
 
 <div id="webaddress">
 <a href="theesccode@gmail.com">theesccode@gmail.com</a>
-| <a href="https://esccode.pl">My web page</a>
+| <a href="https://esccode.pl">esccode.pl</a>
 </div>
 
 
-## Currently
+## Currently on a career break
 
-Standing on the shoulders of giants
+- Engaged in various activities:
+  - CompTIA CySA+ CS0-003, Training status
+  - Proactively participate in the renewal process for certifications such as CompTIA Data+ and Security+
+  - Engaged in non-registered business activities, operating within the legal limits for small-scale income
+  - CompTIA Security+ SY0-601, Passed: April 3, 2024
+  - CompTIA Data+ DA0-001, Passed: February 11, 2024
+  - UNIC 'Introduction to Digital Currencies', Passed: Dec 20, 2023
+  - Created and maintained a web using markup languages
 
 ## Experience
 
 `01/2021-12/2022`
-__Tooling Engineer, ATOS Poland sp. z o.o.__
+__Tooling Engineer, ATOS Poland sp. z o.o.__, Bydgoszsz, Remote
 
 - Provided support for UE clients during transitions, involving three tools:
   - BMC TrueSight Server Automation
@@ -26,7 +33,7 @@ __Tooling Engineer, ATOS Poland sp. z o.o.__
   - Custom Monitoring Tool (Centreon)
 
 `11/2014-09/2020`
-__VoIP Network Administrator, IPCall sp. z o.o.__
+__VoIP Network Administrator, IPCall sp. z o.o.__, Radom, on-site
 
  - Provided support for VoIP infrastructure, including license management and certificate maintenance, involving tools:
    - VoIPSwitch
@@ -34,7 +41,7 @@ __VoIP Network Administrator, IPCall sp. z o.o.__
    - Technical Writing
 
 `09/2014-10/2014`
-__VoIP Service Specialist, ALGO Poland sp. z o.o__
+__VoIP Service Specialist, ALGO Poland sp. z o.o__, Radom, on-site
 
  - Provided support for VoIP infrastructure, involving tools:
    - October CMS
@@ -42,7 +49,7 @@ __VoIP Service Specialist, ALGO Poland sp. z o.o__
    - IPPBX (i.e.: Asterisk, Elastix, Askozia)
 
 `09/2007-02/2009`
-__Customer Advisor for Internet DSL, ORANGE Poland sp. z o.o__
+__Customer Advisor for Internet DSL, ORANGE Poland sp. z o.o__, Warsaw, on-site
 
  - Provided support for business customer service for internet DSL. Remotely troubleshooting client network devices.
 
@@ -53,9 +60,11 @@ __Customer Advisor for Internet DSL, ORANGE Poland sp. z o.o__
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-### Research interests
+### interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Podcasts: Radionaukowe, Cyber Security Headline, Digital Forensics Files, Global News Podcast
+- E-commerce
+- Sports: badminton, football, bicycle
 
 
 ## Education
@@ -77,10 +86,10 @@ __Trinity College, Cambridge__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`05/2021`
+__Accolade Award Bravo - ATOS Poland R&D sp z o.o.__
+ 
+- Successfully facilitated client transitions
 
 
 
