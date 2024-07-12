@@ -3,25 +3,25 @@ layout: cv
 title: Jacek Wieteska's CV
 ---
 # Jacek Wieteska
-<div id="webaddress">
+<!-- <div id="webaddress">
 <a>theesccode@gmail.com</a>
-| <a href="https://esccode.pl">esccode.pl</a> | <a>+48 796 292 454</a> | <a>linkedin.com/in/jacek-wieteska-b66b511b9/"</a>
-</div>
+| <a href="https://esccode.pl">esccode.pl</a> | <a>+48 796 292 454</a> | <a>linkedin.com/in/jacek-wieteska-b66b511b9/</a>
+</div> -->
 
-Data analyst, IT Security Analyst. Interested in a Cybersecurity Analyst position, I am prepared to work with knowledge and the high ethical standards!
+<a>theesccode@gmail.com</a> | <a>esccode.pl</a> | <a>+48 796 292 454</a> | <a>linkedin.com/in/jacek-wieteska-b66b511b9/</a>
 
 ## Licenses & Certifications
 
 `Issued 04/2024 - Expires 04/2027` __CompTIA Security+ CERTIFIED.CE__, online
 
-`Issued 02/2024 - Expires 02/2027` __CompTIA Data+ CERTIFIED.CE__, online
+`Issued 02/2024 - Expires 02/2027` __CompTIA Data+ CERTIFIED.CE__ , online
 
-`Issued 12/2023` __Introduction to Digital Currencies__, 
+`Issued 12/2023` __Introduction to Digital Currencies__,
 University of Nicosia, online
 
 `Issued 01/2023` __Learning Markdown__, Linkedin, online
 
-`Issued 10/2022` __BMC Certified Associate: TrueSight Server Automation 20.x__, online
+`Issued 10/2022 - Expires 10/2024` __TrueSight Server Automation 20.x__, BMC, online
 
 `Issued 12/2020` __Python Developer__, strefakursow.pl, online
 
@@ -75,21 +75,21 @@ __Customer Advisor for Internet DSL, ORANGE Poland sp. z o.o__, Warsaw, on-site
 
 ## Interests
 
-- podcasts: Radionaukowe, Cyber Security Headline, Digital Forensics Files, Global News Podcast, TWIT TV(security Now),
-- e-commerce,
-- sports: badminton, football, bicycle.
+- listen podcasts: Radio Naukowe, Cyber Security Headline, Digital Forensics Files, Global News Podcast, TWIT TV(Security Now)
+- e-commerce
 - digital currencies
+- sports: badminton, football, bicycle
 - grooming
 
 
 ## Education
 
 `03/2008`
-__University of Warsaw__,  Master's degree, Faculty of Law and Administration, on-site
+__University of Warsaw__,  Master's degree, Faculty of Law and Administration, Warsaw, on-site
 
 ## Skills
 
-
+ Markdown, English B1/B2, VoIP, Visual Studio Code, Excel, BASH, Python3, Linux, Data analyze, Cyber Security, Analysis before action.   
 
 ## Awards
 
@@ -98,18 +98,10 @@ __Accolade Award Bravo, ATOS Poland R&D sp z o.o.__
  
 - Successfully facilitated client transitions
 
-
-
 <!-- ## Publications -->
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 <!-- ### Journals -->
-
-
-
-### Footer
-
-Last updated: July 2024
 
 
