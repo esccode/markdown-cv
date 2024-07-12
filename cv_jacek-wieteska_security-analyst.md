@@ -96,12 +96,16 @@ __University of Warsaw__,  Master's degree, Faculty of Law and Administration, W
 `05/2021`
 __Accolade Award Bravo, ATOS Poland R&D sp z o.o.__
  
-- Successfully facilitated client transitions
+Successfully facilitated client transitions
 
 <!-- ## Publications -->
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 <!-- ### Journals -->
+
+## References
+
+Available upon request
 
 
