@@ -3,29 +3,49 @@ layout: cv
 title: Jacek Wieteska's CV
 ---
 # Jacek Wieteska
-Data analyst, IT Security Analyst. Interested in a Cybersecurity Analyst position, I am prepared to work with knowledge and the high ethical
- standards!
-
 <div id="webaddress">
-<a href="theesccode@gmail.com">theesccode@gmail.com</a>
-| <a href="https://esccode.pl">esccode.pl</a>
+<a>theesccode@gmail.com</a>
+| <a href="https://esccode.pl">esccode.pl</a> | <a>+48 796 292 454</a> | <a>linkedin.com/in/jacek-wieteska-b66b511b9/"</a>
 </div>
 
-## Health and well-being, Career Break
+Data analyst, IT Security Analyst. Interested in a Cybersecurity Analyst position, I am prepared to work with knowledge and the high ethical standards!
 
-- Engaged in various activities:
-  - CompTIA CySA+ CS0-003, Training status
-  - Proactively participate in the renewal process for certifications such as CompTIA Data+ and Security+
+## Licenses & Certifications
+
+`Issued 04/2024 - Expires 04/2027` __CompTIA Security+ CERTIFIED.CE__, online
+
+`Issued 02/2024 - Expires 02/2027` __CompTIA Data+ CERTIFIED.CE__, online
+
+`Issued 12/2023` __Introduction to Digital Currencies__, 
+University of Nicosia, online
+
+`Issued 01/2023` __Learning Markdown__, Linkedin, online
+
+`Issued 10/2022` __BMC Certified Associate: TrueSight Server Automation 20.x__, online
+
+`Issued 12/2020` __Python Developer__, strefakursow.pl, online
+
+`Issued 01/2011` __IP PBX / Implementations and Administration__, Master Telecom, on-site
+
+`Issued 12/2005` __English for Speakers of Other Languages, Speaking and Listening Entry 3(B1)__, University of Cambridge Crawley/UK, on-site
+
+## Career Break
+
+`01/2023` __Health and well-being__
+
+`01/2024` __CompTIA certificates__, training status
+
+  <!-- - Proactively participate in the renewal process for certifications such as CompTIA Data+ and Security+
   - Engaged in non-registered business activities, operating within the legal limits for small-scale income
   - CompTIA Security+ SY0-601, Passed: April 3, 2024
   - CompTIA Data+ DA0-001, Passed: February 11, 2024
   - UNIC 'Introduction to Digital Currencies', Passed: Dec 20, 2023
-  - Created and maintained a web using markup languages
+  - Created and maintained a web using markup languages -->
 
 ## Experience
 
 `01/2021-12/2022`
-__Tooling Engineer, ATOS Poland R&D sp z o.o.__, Bydgoszsz, remote
+__Tooling Engineer, ATOS Poland R&D sp z o.o.__, Bydgoszcz, remote
 
 - Provided support for UE clients during transitions, involving three tools:
   - BMC TrueSight Server Automation
@@ -58,7 +78,7 @@ __Customer Advisor for Internet DSL, ORANGE Poland sp. z o.o__, Warsaw, on-site
 - podcasts: Radionaukowe, Cyber Security Headline, Digital Forensics Files, Global News Podcast, TWIT TV(security Now),
 - e-commerce,
 - sports: badminton, football, bicycle.
-- digital Currencies
+- digital currencies
 - grooming
 
 
@@ -66,25 +86,6 @@ __Customer Advisor for Internet DSL, ORANGE Poland sp. z o.o__, Warsaw, on-site
 
 `03/2008`
 __University of Warsaw__,  Master's degree, Faculty of Law and Administration, on-site
-
-## Licenses & Certifications
-
-`Issued 04/2024 - Expires 04/2027` __CompTIA Security+ CERTIFIED.CE__, online
-
-`Issued 02/2024 - Expires 02/2027` __CompTIA Data+ CERTIFIED.CE__, online
-
-`Issued 12/2023` __Introduction to Digital Currencies__, 
-University of Nicosia, online
-
-`Issued 01/2023` __Learning Markdown__, Linkedin, online
-
-`Issued 10/2022` __BMC Certified Associate: TrueSight Server Automation 20.x__, online
-
-`Issued 12/2020` __Python Developer__, strefakursow.pl, online
-
-`Issued 01/2011` __IP PBX / Implementations and Administration__, Master Telecom, on-site
-
-`Issued 12/2005` __English for Speakers of Other Languages, Speaking and Listening Entry 3(B1)__, University of Cambridge Crawley/UK, on-site
 
 ## Skills
 
