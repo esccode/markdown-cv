@@ -38,7 +38,6 @@ __VoIP Network Administrator, IPCall sp. z o.o.__, Radom, on-site
  - Provided support for VoIP infrastructure, including license management and certificate maintenance, involving tools:
    - VoIPSwitch
    - PLICBD(Location and Information Platform with Central Database)
-   - Technical Writing
 
 `09/2014-10/2014`
 __VoIP Service Specialist, ALGO Poland sp. z o.o__, Radom, on-site
@@ -51,42 +50,43 @@ __VoIP Service Specialist, ALGO Poland sp. z o.o__, Radom, on-site
 `09/2007-02/2009`
 __Customer Advisor for Internet DSL, ORANGE Poland sp. z o.o__, Warsaw, on-site
 
-  - provided support for business customer service for internet DSL.
-  - remotely troubleshooting client network devices.
-
+- provided remote support for business customers for internet DSL service
+- remotely troubleshooting client network devices
 
 ## Interests
 
-- Podcasts: Radionaukowe, Cyber Security Headline, Digital Forensics Files, Global News Podcast, TWIT TV(security Now),
-- E-commerce,
-- Sports: badminton, football, bicycle.
-- Digital Currencies
-- Grooming
+- podcasts: Radionaukowe, Cyber Security Headline, Digital Forensics Files, Global News Podcast, TWIT TV(security Now),
+- e-commerce,
+- sports: badminton, football, bicycle.
+- digital Currencies
+- grooming
 
 
 ## Education
 
 `03/2008`
-__University of Warsaw__,  Master's degree, Faculty of Law and Administration, On-site
+__University of Warsaw__,  Master's degree, Faculty of Law and Administration, on-site
 
 ## Licenses & Certifications
 
-`Issued 04/2024 - Expires 04/2027` __CompTIA Security+ CERTIFIED.CE__, Online
+`Issued 04/2024 - Expires 04/2027` __CompTIA Security+ CERTIFIED.CE__, online
 
-`Issued 02/2024 - Expires 02/2027` __CompTIA Data+ CERTIFIED.CE__, Online
+`Issued 02/2024 - Expires 02/2027` __CompTIA Data+ CERTIFIED.CE__, online
 
 `Issued 12/2023` __Introduction to Digital Currencies__, 
-University of Nicosia, Online
+University of Nicosia, online
 
-`Issued 01/2023` __Learning Markdown__, Linkedin, Online
+`Issued 01/2023` __Learning Markdown__, Linkedin, online
 
-`Issued 10/2022` __BMC Certified Associate: TrueSight Server Automation 20.x__, Online
+`Issued 10/2022` __BMC Certified Associate: TrueSight Server Automation 20.x__, online
 
-`Issued 12/2020` __Python Developer__, strefakursow.pl, Online
+`Issued 12/2020` __Python Developer__, strefakursow.pl, online
 
-`Issued 01/2011` __IP PBX / Implementations and Administration__, Master Telecom, On-site
+`Issued 01/2011` __IP PBX / Implementations and Administration__, Master Telecom, on-site
 
-`Issued 12/2005` __English for Speakers of Other Languages, Speaking and Listening Entry 3(B1)__, University of Cambridge Crawley/UK, On-site
+`Issued 12/2005` __English for Speakers of Other Languages, Speaking and Listening Entry 3(B1)__, University of Cambridge Crawley/UK, on-site
+
+## Skills
 
 
 
