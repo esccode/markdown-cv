@@ -87,21 +87,21 @@ time = datetime.now().strftime(f"D\072%Y%m%d%H%M%S{utc_time}")
 
 from pypdf import PdfReader, PdfWriter
 
-writer = PdfWriter(clone_from="cysa_85_v1_merged-3.pdf")
+writer = PdfWriter(clone_from="cv_jacek-wieteska.pdf")
 
 ### Change some values.
 writer.add_metadata(
     {
         "/Author": "esccode.pl",
         # "/Producer": "Libre Writer",
-        "/Title": "comptia_CySA_cs0-003_85-sample-question",
+        "/Title": "resume",
         # "/Subject": "comptia_CySA_cs0-003_85-sample-question",
-        "/Keywords": ["CySA","comptia","cs0-003","security","cybersecurity"],
+        "/Keywords": ["data","analyst","comptia","security","cybersecurity","resume","cv","job"],
         "/CreationDate": time,
         "/ModDate": time,
     }
 )
 
 ### Save the new PDF to a file
-with open("cysa_85_v1_merged-3.pdf", "wb") as f:
+with open("cv_jacek-wieteska.pdf", "wb") as f:
     writer.write(f)
