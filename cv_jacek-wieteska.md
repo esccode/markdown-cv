@@ -75,11 +75,11 @@ __Customer Advisor for Internet DSL, ORANGE Poland sp. z o.o__, Warsaw, on-site
 
 ## Interests
 
-- listen podcasts: Radio Naukowe, Cyber Security Headline, Digital Forensics Files, Global News Podcast, TWIT TV(Security Now)
-- e-commerce
-- digital currencies
-- sports: badminton, football, bicycle
-- grooming
+- Listen podcasts: Radio Naukowe, Cyber Security Headline, Digital Forensics Files, Global News Podcast, TWIT TV(Security Now)
+- E-commerce
+- Digital currencies
+- Sports: badminton, football, bicycle
+- Grooming
 
 
 ## Education
