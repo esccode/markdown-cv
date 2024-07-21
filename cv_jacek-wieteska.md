@@ -10,6 +10,8 @@ title: Jacek Wieteska's CV
 
 <a>theesccode@gmail.com</a> | <a>esccode.pl</a> | <a>+48 796 292 454</a> | <a>linkedin.com/in/jacek-wieteska-b66b511b9/</a>
 
+I am driven by a passion for protecting digital assets and have the analytical skills to enhance your organization’s cybersecurity. My commitment to staying current with security trends makes me an ideal candidate for the Cybersecurity Analyst role.
+
 ## Licenses & Certifications
 
 `Issued 04/2024 - Expires 04/2027` __CompTIA Security+ CERTIFIED.CE__, online
@@ -81,7 +83,6 @@ __Customer Advisor for Internet DSL, ORANGE Poland sp. z o.o__, Warsaw, on-site
 - Sports: badminton, football, bicycle
 - Grooming
 
-
 ## Education
 
 `03/2008`
@@ -89,7 +90,7 @@ __University of Warsaw__,  Master's degree, Faculty of Law and Administration, W
 
 ## Skills
 
- Markdown, English B1/B2, VoIP, Visual Studio Code, Excel, BASH, Python3, Linux, Data analyze, Cyber Security, Analysis before action.   
+ Markdown, English B1/B2, VoIP, Visual Studio Code, Excel, BASH, Python3, Linux, Data analyze, Cyber Security, AWS.   
 
 ## Awards
 

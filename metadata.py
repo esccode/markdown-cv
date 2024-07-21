@@ -94,14 +94,14 @@ writer.add_metadata(
     {
         "/Author": "esccode.pl",
         # "/Producer": "Libre Writer",
-        "/Title": "resume",
+        "/Title": "Resume, IT Security Analyst, ReCREWter",
         # "/Subject": "comptia_CySA_cs0-003_85-sample-question",
-        "/Keywords": ["data","analyst","comptia","security","cybersecurity","resume","cv","job"],
+        "/Keywords": ["IT Security Analyst","data","analyst","comptia","security","cybersecurity","resume","cv","job"],
         "/CreationDate": time,
         "/ModDate": time,
     }
 )
 
 ### Save the new PDF to a file
-with open("cv_jacek-wieteska.pdf", "wb") as f:
+with open("resume_jacek-wieteska_IT-Security-Analyst_ReCREWter.pdf", "wb") as f:
     writer.write(f)
