@@ -1,7 +1,47 @@
 ---
-layout: cv
-title: Jacek Wieteska's CV
+documentclass: extarticle
+fontsize: 14pt
+geometry: margin=0.5in
+# mainfont: TimeNewRoman.ttf
+linestretch: 1.0
+parindent: 1pt
+parskip: 1em
+emergencystretch: 3em
+colorlinks: true
+linkcolor: red
+urlcolor: blue
+
+header-includes:
+  - \usepackage{titling}
+  - \pretitle{\begin{center}\Huge\bfseries}
+  - \posttitle{\par\end{center}\vskip 0.5em}
+  - \preauthor{\begin{center}\large}
+  - \postauthor{\par\end{center}}
+  - \predate{\begin{center}\large}
+  - \postdate{\par\end{center}}
+
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+#   - \fancyhead[CO,CE]{}
+  - \fancyhead[RO]{}
+  - \fancyfoot[CO,CE]{}
+  - \fancyfoot[LE,RO]{\thepage}
+
+
+
+title: "Jacek Wieteska's Resume"
+author: "Jacek Wieteska, esccode.pl"
+subtitle: "Ads Quality Rater – Język polski (Polska), Welocalize"
+keywords: "Polish language proficiency, English language proficiency, Internet skills, Adaptability, Computer literacy, Strong internet connection, Instruction following, Confidentiality adherence, Language proficiency testing, Quality assessment"
+date: "\\today"
+# keywords": 'compTIA, sy0-701, security, cybersecurity'
+# subject: 'compTIA, sy0-701, security, cybersecurity'
+# categories: cybersecurity
+
+# pandoc file-in.md -o file-out.pdf --pdf-engine=xelatex
+
 ---
+
 # Jacek Wieteska
 <!-- <div id="webaddress">
 <a>theesccode@gmail.com</a>
@@ -10,7 +50,8 @@ title: Jacek Wieteska's CV
 
 <a>theesccode@gmail.com</a> | <a>esccode.pl</a> | <a>+48 796 292 454</a> | <a>linkedin.com/in/jacek-wieteska-b66b511b9/</a>
 
-I am driven by a passion for protecting digital assets and have the analytical skills to enhance your organization’s cybersecurity. My commitment to staying current with security trends makes me an ideal candidate for the Cybersecurity Analyst role.
+<!-- I am driven by a passion for protecting digital assets and have the analytical skills to enhance your organization’s cybersecurity. My commitment to staying current with security trends makes me an ideal candidate for the Cybersecurity Analyst role. -->
+I am an experienced IT professional with a strong background in technology and a passion for analyzing and improving web content. My expertise includes a deep understanding of internet trends, search engine functionality, and user behavior, making me well-suited for the role of ***Ads Quality Rater***. I am proficient in both Polish and English and have a keen eye for detail, ensuring that advertisements meet the highest quality standards.
 
 ## Licenses & Certifications
 
@@ -90,7 +131,9 @@ __University of Warsaw__,  Master's degree, Faculty of Law and Administration, W
 
 ## Skills
 
- Markdown, English B1/B2, VoIP, Visual Studio Code, Excel, BASH, Python3, Linux, Data analyze, Cyber Security, AWS.   
+ <!-- Markdown, English B1/B2, VoIP, Visual Studio Code, Excel, BASH, Python3, Linux, Data analyze, Cyber Security, AWS.    -->
+
+Excellent knowledge of Polish language - Proficiency in English language - Internet proficiency - Ability to work in a fast-paced and changing environment - Reliable computer and internet connection - Ability to follow instructions in English - Confidentiality agreement signing - Ability to pass a language proficiency test and rigorous quality assessment
 
 ## Awards
 
