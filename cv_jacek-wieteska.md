@@ -31,8 +31,8 @@ header-includes:
 
 title: "Jacek Wieteska's Resume"
 author: "Jacek Wieteska, esccode.pl"
-subtitle: "Ads Quality Rater – Język polski (Polska), Welocalize"
-keywords: "Polish language proficiency, English language proficiency, Internet skills, Adaptability, Computer literacy, Strong internet connection, Instruction following, Confidentiality adherence, Language proficiency testing, Quality assessment"
+subtitle: "Technical Writer, eTeam"
+keywords: Technical writing, user manuals, API documentation, software documentation, user guides, instructional design, content management, product documentation, UI/UX writing, editing, proofreading, information architecture, content strategy, technical communication, content development, DITA, single-sourcing, content localization, version control, markdown, HTML, XML, technical diagrams, style guides, knowledge base, compliance documentation, process documentation, white papers, release notes, usability testing, document management, content audits, agile methodology, structured writing."
 date: "\\today"
 # keywords": 'compTIA, sy0-701, security, cybersecurity'
 # subject: 'compTIA, sy0-701, security, cybersecurity'
@@ -51,7 +51,8 @@ date: "\\today"
 <a>theesccode@gmail.com</a> | <a>esccode.pl</a> | <a>+48 796 292 454</a> | <a>linkedin.com/in/jacek-wieteska-b66b511b9/</a>
 
 <!-- I am driven by a passion for protecting digital assets and have the analytical skills to enhance your organization’s cybersecurity. My commitment to staying current with security trends makes me an ideal candidate for the Cybersecurity Analyst role. -->
-I am an experienced IT professional with a strong background in technology and a passion for analyzing and improving web content. My expertise includes a deep understanding of internet trends, search engine functionality, and user behavior, making me well-suited for the role of ***Ads Quality Rater***. I am proficient in both Polish and English and have a keen eye for detail, ensuring that advertisements meet the highest quality standards.
+<!-- I am an experienced IT professional with a strong background in technology and a passion for analyzing and improving web content. My expertise includes a deep understanding of internet trends, search engine functionality, and user behavior, making me well-suited for the role of ***Ads Quality Rater***. I am proficient in both Polish and English and have a keen eye for detail, ensuring that advertisements meet the highest quality standards. -->
+Detail-oriented Technical Writer with a strong background in creating clear, concise, and user-friendly documentation for software and IT products. Proficient in writing API references, user guides, and UI text, with a solid understanding of technical concepts and a passion for improving user experience through effective communication. Experienced in collaborating with cross-functional teams and skilled in using tools like Markdown and Git.
 
 ## Licenses & Certifications
 
@@ -72,22 +73,29 @@ University of Nicosia, online
 
 `Issued 12/2005` __English for Speakers of Other Languages, Speaking and Listening Entry 3(B1)__, University of Cambridge Crawley/UK, on-site
 
-## Career Break
 
-`01/2023` __Health and well-being__
+## Experience 
 
-`01/2024` __CompTIA certificates__, training status
+`07/2024 - Present`
+__Freelance Technical Writer__, esccode.pl · Self-employed
+
+- Purchase My eBooks Exclusively:
+
+  - [Naffy.io](https://www.naffy.io/esccode-pl)
+  - [Amazon.com](https://www.amazon.com/author/esccode)
+
+### Career Break
+
+`01/2023 - 06/2024` __Health and well-being__
 
   <!-- - Proactively participate in the renewal process for certifications such as CompTIA Data+ and Security+
-  - Engaged in non-registered business activities, operating within the legal limits for small-scale income
-  - CompTIA Security+ SY0-601, Passed: April 3, 2024
-  - CompTIA Data+ DA0-001, Passed: February 11, 2024
-  - UNIC 'Introduction to Digital Currencies', Passed: Dec 20, 2023
-  - Created and maintained a web using markup languages -->
+  - Engaged in non-registered business activities, operating within the legal limits for small-scale income -->
+- CompTIA Security+ SY0-601, Passed: April 3, 2024
+- CompTIA Data+ DA0-001, Passed: February 11, 2024
+- UNIC 'Introduction to Digital Currencies', Passed: Dec 20, 2023
+  <!-- - Created and maintained a web using markup languages -->
 
-## Experience
-
-`01/2021-12/2022`
+`01/2021 - 12/2022`
 __Tooling Engineer, ATOS Poland R&D sp z o.o.__, Bydgoszcz, remote
 
 - Provided support for UE clients during transitions, involving three tools:
@@ -95,22 +103,22 @@ __Tooling Engineer, ATOS Poland R&D sp z o.o.__, Bydgoszcz, remote
   - Monitoring Tool (SCOM)
   - Custom Monitoring Tool (Centreon)
 
-`11/2014-09/2020`
+`11/2014 - 09/2020`
 __VoIP Network Administrator, IPCall sp. z o.o.__, Radom, on-site
 
- - Provided support for VoIP infrastructure, including license management and certificate maintenance, involving tools:
-   - VoIPSwitch
-   - PLICBD(Location and Information Platform with Central Database)
+- Provided support for VoIP infrastructure, including license management and certificate maintenance, involving tools:
+  - VoIPSwitch
+  - PLICBD(Location and Information Platform with Central Database)
 
-`09/2014-10/2014`
+`09/2014 - 10/2014`
 __VoIP Service Specialist, ALGO Poland sp. z o.o__, Radom, on-site
 
- - Provided support for VoIP infrastructure, involving tools:
-   - October CMS
-   - Proxmox Virtual Environment
-   - IPPBX (i.e.: Asterisk, Elastix, Askozia)
+- Provided support for VoIP infrastructure, involving tools:
+ - October CMS
+ - Proxmox Virtual Environment
+ - IPPBX (i.e.: Asterisk, Elastix, Askozia)
 
-`09/2007-02/2009`
+`09/2007 - 02/2009`
 __Customer Advisor for Internet DSL, ORANGE Poland sp. z o.o__, Warsaw, on-site
 
 - provided remote support for business customers for internet DSL service
@@ -126,14 +134,15 @@ __Customer Advisor for Internet DSL, ORANGE Poland sp. z o.o__, Warsaw, on-site
 
 ## Education
 
-`03/2008`
+`09/2006 - 03/2008`
 __University of Warsaw__,  Master's degree, Faculty of Law and Administration, Warsaw, on-site
 
 ## Skills
 
+Excellent communication and writing skills, UI text, product documentation, API references, network application documentation (TCP/UDP/IP/DNS), Markdown, GIT, IP protocols (TCP/IP, HTTP, DNS, TLS), analytical skills, learning agility, proactive editing and design, collaboration.**
  <!-- Markdown, English B1/B2, VoIP, Visual Studio Code, Excel, BASH, Python3, Linux, Data analyze, Cyber Security, AWS.    -->
 
-Excellent knowledge of Polish language - Proficiency in English language - Internet proficiency - Ability to work in a fast-paced and changing environment - Reliable computer and internet connection - Ability to follow instructions in English - Confidentiality agreement signing - Ability to pass a language proficiency test and rigorous quality assessment
+<!-- Excellent knowledge of Polish language - Proficiency in English language - Internet proficiency - Ability to work in a fast-paced and changing environment - Reliable computer and internet connection - Ability to follow instructions in English - Confidentiality agreement signing - Ability to pass a language proficiency test and rigorous quality assessment -->
 
 ## Awards
 
