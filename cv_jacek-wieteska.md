@@ -23,7 +23,8 @@ header-includes:
   - \usepackage{fancyhdr}
   - \pagestyle{fancy}
 #   - \fancyhead[CO,CE]{}
-  - \fancyhead[RO]{}
+  - \fancyhead[]{}
+  # - \fancyhead[RO]{}
   - \fancyfoot[CO,CE]{}
   - \fancyfoot[LE,RO]{\thepage}
 
@@ -139,7 +140,7 @@ __University of Warsaw__,  Master's degree, Faculty of Law and Administration, W
 
 ## Skills
 
-Excellent communication and writing skills, UI text, product documentation, API references, network application documentation (TCP/UDP/IP/DNS), Markdown, GIT, IP protocols (TCP/IP, HTTP, DNS, TLS), analytical skills, learning agility, proactive editing and design, collaboration.**
+Excellent communication and writing skills, product documentation, API references, IT network documentation, Markdown, Git, cybersecurity, analytical skills, Bash, Pandoc, Visual Studio Code.
  <!-- Markdown, English B1/B2, VoIP, Visual Studio Code, Excel, BASH, Python3, Linux, Data analyze, Cyber Security, AWS.    -->
 
 <!-- Excellent knowledge of Polish language - Proficiency in English language - Internet proficiency - Ability to work in a fast-paced and changing environment - Reliable computer and internet connection - Ability to follow instructions in English - Confidentiality agreement signing - Ability to pass a language proficiency test and rigorous quality assessment -->
