@@ -32,8 +32,8 @@ header-includes:
 
 title: "Jacek Wieteska's Resume"
 author: "Jacek Wieteska, esccode.pl"
-subtitle: "Technical Writer, eTeam"
-keywords: Technical writing, user manuals, API documentation, software documentation, user guides, instructional design, content management, product documentation, UI/UX writing, editing, proofreading, information architecture, content strategy, technical communication, content development, DITA, single-sourcing, content localization, version control, markdown, HTML, XML, technical diagrams, style guides, knowledge base, compliance documentation, process documentation, white papers, release notes, usability testing, document management, content audits, agile methodology, structured writing."
+subtitle: "Application for Technical Writer Role, AppXite"
+keywords: "Technical Writer, SaaS documentation, API Developer Guides, User Guides, Integration Guides, SQL proficiency, API Postman, L1/L2 Support, Agile environment, Software documentation, Cloud services, B2B SaaS, Microsoft, IBM, AWS, Google, Adobe, Cisco, E-learning content, Remote work, Technical writing in English, Cross-departmental communication, Subscription-based business, Product knowledge, Platform documentation, Video documentation, XML tools, Problem-solving documentation, Product SME, Process improvement"
 date: "\\today"
 # keywords": 'compTIA, sy0-701, security, cybersecurity'
 # subject: 'compTIA, sy0-701, security, cybersecurity'
@@ -42,18 +42,20 @@ date: "\\today"
 # pandoc file-in.md -o file-out.pdf --pdf-engine=xelatex
 
 ---
+**Dear Hiring Manager**,
 
-# Jacek Wieteska
+I am excited to apply for this opportunity at AppXite. With certifications such as CompTIA Security+ and Data+, and experience in creating detailed user guides and API content for SaaS platforms, I have a strong background in technical writing.
+
+Thank you for considering my application. I look forward to hearing from you.
+<!-- # Jacek Wieteska -->
 <!-- <div id="webaddress">
 <a>theesccode@gmail.com</a>
 | <a href="https://esccode.pl">esccode.pl</a> | <a>+48 796 292 454</a> | <a>linkedin.com/in/jacek-wieteska-b66b511b9/</a>
 </div> -->
 
-<a>theesccode@gmail.com</a> | <a>esccode.pl</a> | <a>+48 796 292 454</a> | <a>linkedin.com/in/jacek-wieteska-b66b511b9/</a>
+## Contact
 
-<!-- I am driven by a passion for protecting digital assets and have the analytical skills to enhance your organization’s cybersecurity. My commitment to staying current with security trends makes me an ideal candidate for the Cybersecurity Analyst role. -->
-<!-- I am an experienced IT professional with a strong background in technology and a passion for analyzing and improving web content. My expertise includes a deep understanding of internet trends, search engine functionality, and user behavior, making me well-suited for the role of ***Ads Quality Rater***. I am proficient in both Polish and English and have a keen eye for detail, ensuring that advertisements meet the highest quality standards. -->
-Detail-oriented Technical Writer with a strong background in creating clear, concise, and user-friendly documentation for software and IT products. Proficient in writing API references, user guides, and UI text, with a solid understanding of technical concepts and a passion for improving user experience through effective communication. Experienced in collaborating with cross-functional teams and skilled in using tools like Markdown and Git.
+<a>theesccode@gmail.com</a> | <a>esccode.pl</a> | <a>+48 796 292 454</a>
 
 ## Licenses & Certifications
 
@@ -78,11 +80,10 @@ University of Nicosia, online
 ## Experience 
 
 `07/2024 - Present`
-__Freelance Technical Writer__, esccode.pl · Self-employed
+__
+Self-Published Tech Author__, esccode.pl · Self-employed
 
 - Purchase My eBooks Exclusively:
-
-  - [Naffy.io](https://www.naffy.io/esccode-pl)
   - [Amazon.com](https://www.amazon.com/author/esccode)
 
 ### Career Break
@@ -140,7 +141,7 @@ __University of Warsaw__,  Master's degree, Faculty of Law and Administration, W
 
 ## Skills
 
-Excellent communication and writing skills, product documentation, API references, IT network documentation, Markdown, Git, cybersecurity, analytical skills, Bash, Pandoc, Visual Studio Code.
+Technical Writing, SaaS, API knowledge, SQL proficiency, Agile methodology, Cross-department collaboration, Technical content creation, Troubleshooting & support, Documentation consistency, Markdown, Git.
  <!-- Markdown, English B1/B2, VoIP, Visual Studio Code, Excel, BASH, Python3, Linux, Data analyze, Cyber Security, AWS.    -->
 
 <!-- Excellent knowledge of Polish language - Proficiency in English language - Internet proficiency - Ability to work in a fast-paced and changing environment - Reliable computer and internet connection - Ability to follow instructions in English - Confidentiality agreement signing - Ability to pass a language proficiency test and rigorous quality assessment -->
