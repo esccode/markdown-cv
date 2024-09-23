@@ -32,7 +32,7 @@ header-includes:
 
 title: "Jacek Wieteska's Resume"
 author: "Jacek Wieteska, esccode.pl"
-subtitle: "Application for Technical Writer Role, AppXite"
+subtitle: "Application for Open Source Technical Writer, Mirantis"
 keywords: "Technical Writer, SaaS documentation, API Developer Guides, User Guides, Integration Guides, SQL proficiency, API Postman, L1/L2 Support, Agile environment, Software documentation, Cloud services, B2B SaaS, Microsoft, IBM, AWS, Google, Adobe, Cisco, E-learning content, Remote work, Technical writing in English, Cross-departmental communication, Subscription-based business, Product knowledge, Platform documentation, Video documentation, XML tools, Problem-solving documentation, Product SME, Process improvement"
 date: "\\today"
 # keywords": 'compTIA, sy0-701, security, cybersecurity'
@@ -44,7 +44,7 @@ date: "\\today"
 ---
 **Dear Hiring Manager**,
 
-I am excited to apply for this opportunity at AppXite. With certifications such as CompTIA Security+ and Data+, and experience in creating detailed user guides and API content for SaaS platforms, I have a strong background in technical writing.
+Certified in CompTIA Security+ and Data+, I am an IT professional with experience in technical writing, cybersecurity, and data analysis. I have held various roles in IT, excelling in documentation and system administration, with a focus on clarity and problem-solving in fast-paced environments.
 
 Thank you for considering my application. I look forward to hearing from you.
 <!-- # Jacek Wieteska -->
@@ -53,11 +53,11 @@ Thank you for considering my application. I look forward to hearing from you.
 | <a href="https://esccode.pl">esccode.pl</a> | <a>+48 796 292 454</a> | <a>linkedin.com/in/jacek-wieteska-b66b511b9/</a>
 </div> -->
 
-## Contact
+## **Contact**
 
 <a>theesccode@gmail.com</a> | <a>esccode.pl</a> | <a>+48 796 292 454</a>
 
-## Licenses & Certifications
+## **Licenses & Certifications**
 
 `Issued 04/2024 - Expires 04/2027` __CompTIA Security+ CERTIFIED.CE__, online
 
@@ -76,26 +76,23 @@ University of Nicosia, online
 
 `Issued 12/2005` __English for Speakers of Other Languages, Speaking and Listening Entry 3(B1)__, University of Cambridge Crawley/UK, on-site
 
-
-## Experience 
+## **Experience**
 
 `07/2024 - Present`
-__
-Self-Published Tech Author__, esccode.pl · Self-employed
+__Self-Published Tech Author__, esccode.pl · Self-employed
 
-- Purchase My eBooks Exclusively:
   - [Amazon.com](https://www.amazon.com/author/esccode)
 
 ### Career Break
 
 `01/2023 - 06/2024` __Health and well-being__
 
-  <!-- - Proactively participate in the renewal process for certifications such as CompTIA Data+ and Security+
-  - Engaged in non-registered business activities, operating within the legal limits for small-scale income -->
+- Proactively participate in the renewal process for certifications
 - CompTIA Security+ SY0-601, Passed: April 3, 2024
 - CompTIA Data+ DA0-001, Passed: February 11, 2024
 - UNIC 'Introduction to Digital Currencies', Passed: Dec 20, 2023
   <!-- - Created and maintained a web using markup languages -->
+  <!-- - Engaged in non-registered business activities, operating within the legal limits for small-scale income -->
 
 `01/2021 - 12/2022`
 __Tooling Engineer, ATOS Poland R&D sp z o.o.__, Bydgoszcz, remote
@@ -112,7 +109,7 @@ __VoIP Network Administrator, IPCall sp. z o.o.__, Radom, on-site
   - VoIPSwitch
   - PLICBD(Location and Information Platform with Central Database)
 
-`09/2014 - 10/2014`
+`11/2009 - 10/2014`
 __VoIP Service Specialist, ALGO Poland sp. z o.o__, Radom, on-site
 
 - Provided support for VoIP infrastructure, involving tools:
@@ -126,7 +123,7 @@ __Customer Advisor for Internet DSL, ORANGE Poland sp. z o.o__, Warsaw, on-site
 - provided remote support for business customers for internet DSL service
 - remotely troubleshooting client network devices
 
-## Interests
+## **Interests**
 
 - Listen podcasts: Radio Naukowe, Cyber Security Headline, Digital Forensics Files, Global News Podcast, TWIT TV(Security Now)
 - E-commerce
@@ -134,19 +131,19 @@ __Customer Advisor for Internet DSL, ORANGE Poland sp. z o.o__, Warsaw, on-site
 - Sports: badminton, football, bicycle
 - Grooming
 
-## Education
+## **Education**
 
 `09/2006 - 03/2008`
 __University of Warsaw__,  Master's degree, Faculty of Law and Administration, Warsaw, on-site
 
-## Skills
+## **Skills**
 
-Technical Writing, SaaS, API knowledge, SQL proficiency, Agile methodology, Cross-department collaboration, Technical content creation, Troubleshooting & support, Documentation consistency, Markdown, Git.
+Technical Writing, API knowledge, Cybersecurity, Data, Technical content creation, Markdown, Git, Visual Studio Code.
  <!-- Markdown, English B1/B2, VoIP, Visual Studio Code, Excel, BASH, Python3, Linux, Data analyze, Cyber Security, AWS.    -->
 
 <!-- Excellent knowledge of Polish language - Proficiency in English language - Internet proficiency - Ability to work in a fast-paced and changing environment - Reliable computer and internet connection - Ability to follow instructions in English - Confidentiality agreement signing - Ability to pass a language proficiency test and rigorous quality assessment -->
 
-## Awards
+## **Awards**
 
 `05/2021`
 __Accolade Award Bravo, ATOS Poland R&D sp z o.o.__
@@ -159,7 +156,7 @@ Successfully facilitated client transitions
 
 <!-- ### Journals -->
 
-## References
+## **References**
 
 Available upon request
 
