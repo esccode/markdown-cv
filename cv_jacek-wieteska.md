@@ -32,8 +32,9 @@ header-includes:
 
 title: "Jacek Wieteska's Resume"
 author: "Jacek Wieteska, esccode.pl"
-subtitle: "Application for Open Source Technical Writer, Mirantis"
-keywords: "Technical Writer, SaaS documentation, API Developer Guides, User Guides, Integration Guides, SQL proficiency, API Postman, L1/L2 Support, Agile environment, Software documentation, Cloud services, B2B SaaS, Microsoft, IBM, AWS, Google, Adobe, Cisco, E-learning content, Remote work, Technical writing in English, Cross-departmental communication, Subscription-based business, Product knowledge, Platform documentation, Video documentation, XML tools, Problem-solving documentation, Product SME, Process improvement"
+subtitle: "Application for CyberSecurity Analyst, Fortrea"
+keywords: "Fortrea, Threat Analysis, Incident Response, Vulnerability Assessment, Security Information and Event Management (SIEM), Intrusion Detection/Prevention Systems (IDS/IPS), Penetration Testing, Network Security, Risk Management, Firewall Configuration, Malware Analysis, Data Loss Prevention (DLP), Security Auditing, Encryption Techniques, Compliance (ISO, NIST, GDPR), Security Policies and Procedures, Identity and Access Management (IAM), Incident Handling, Forensic Analysis, Zero Trust Architecture, Patch Management, Endpoint Security, Cloud Security, CASB, SaaS, PaaS, 27001"
+# keywords: "Technical Writer, SaaS documentation, API Developer Guides, User Guides, Integration Guides, SQL proficiency, API Postman, L1/L2 Support, Agile environment, Software documentation, Cloud services, B2B SaaS, Microsoft, IBM, AWS, Google, Adobe, Cisco, E-learning content, Remote work, Technical writing in English, Cross-departmental communication, Subscription-based business, Product knowledge, Platform documentation, Video documentation, XML tools, Problem-solving documentation, Product SME, Process improvement"
 date: "\\today"
 # keywords": 'compTIA, sy0-701, security, cybersecurity'
 # subject: 'compTIA, sy0-701, security, cybersecurity'
@@ -138,7 +139,7 @@ __University of Warsaw__,  Master's degree, Faculty of Law and Administration, W
 
 ## **Skills**
 
-Technical Writing, API knowledge, Cybersecurity, Data, Technical content creation, Markdown, Git, Visual Studio Code.
+Technical writing, cybersecurity, data, technical content creation, markdown, git, Visual Studio Code, strong analytical, problem-solving, and communication skills, ability to work independently and as part of a team in a dynamic environment, proficiency in security technologies, including firewalls, and encryption solutions.
  <!-- Markdown, English B1/B2, VoIP, Visual Studio Code, Excel, BASH, Python3, Linux, Data analyze, Cyber Security, AWS.    -->
 
 <!-- Excellent knowledge of Polish language - Proficiency in English language - Internet proficiency - Ability to work in a fast-paced and changing environment - Reliable computer and internet connection - Ability to follow instructions in English - Confidentiality agreement signing - Ability to pass a language proficiency test and rigorous quality assessment -->
