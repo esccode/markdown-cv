@@ -32,8 +32,8 @@ header-includes:
 
 title: "Jacek Wieteska's Resume"
 author: "Jacek Wieteska, esccode.pl"
-subtitle: "Application for CyberSecurity Analyst, Fortrea"
-keywords: "Fortrea, Threat Analysis, Incident Response, Vulnerability Assessment, Security Information and Event Management (SIEM), Intrusion Detection/Prevention Systems (IDS/IPS), Penetration Testing, Network Security, Risk Management, Firewall Configuration, Malware Analysis, Data Loss Prevention (DLP), Security Auditing, Encryption Techniques, Compliance (ISO, NIST, GDPR), Security Policies and Procedures, Identity and Access Management (IAM), Incident Handling, Forensic Analysis, Zero Trust Architecture, Patch Management, Endpoint Security, Cloud Security, CASB, SaaS, PaaS, 27001"
+subtitle: "Application for OTM senior consultant, Evolution Nordic"
+keywords: "SQL. PLSQL, Oracle Transportation Management (OTM), Master Data Management, Compliance (ISO, NIST, GDPR), Security Policies and Procedures"
 # keywords: "Technical Writer, SaaS documentation, API Developer Guides, User Guides, Integration Guides, SQL proficiency, API Postman, L1/L2 Support, Agile environment, Software documentation, Cloud services, B2B SaaS, Microsoft, IBM, AWS, Google, Adobe, Cisco, E-learning content, Remote work, Technical writing in English, Cross-departmental communication, Subscription-based business, Product knowledge, Platform documentation, Video documentation, XML tools, Problem-solving documentation, Product SME, Process improvement"
 date: "\\today"
 # keywords": 'compTIA, sy0-701, security, cybersecurity'
@@ -43,11 +43,13 @@ date: "\\today"
 # pandoc file-in.md -o file-out.pdf --pdf-engine=xelatex
 
 ---
-**Dear Hiring Manager**,
 
-Certified in CompTIA Security+ and Data+, I am an IT professional with experience in technical writing, cybersecurity, and data analysis. I have held various roles in IT, excelling in documentation and system administration, with a focus on clarity and problem-solving in fast-paced environments.
+**Dear [Hiring Manager],**
 
-Thank you for considering my application. I look forward to hearing from you.
+I am writing to express my interest in the OTM Senior Consultant role. With over a decade of IT experience, including system implementation, maintenance, and optimization, I have a proven track record in managing large-scale projects. 
+
+I also hold **CompTIA Data+ and CompTIA Security+ certifications**, which further strengthen my expertise in data management and security, ensuring that the solutions I implement are both efficient and secure.
+
 <!-- # Jacek Wieteska -->
 <!-- <div id="webaddress">
 <a>theesccode@gmail.com</a>
@@ -139,7 +141,7 @@ __University of Warsaw__,  Master's degree, Faculty of Law and Administration, W
 
 ## **Skills**
 
-Technical writing, cybersecurity, data, technical content creation, markdown, git, Visual Studio Code, strong analytical, problem-solving, and communication skills, ability to work independently and as part of a team in a dynamic environment, proficiency in security technologies, including firewalls, and encryption solutions.
+Problem-Solving & Analytical Thinking, Stakeholder Communication, Technical writing, Cybersecurity, data, Technical content creation, Markdown, Git, Visual Studio Code, Strong analytical, Problem-solving, and communication skills, Proficiency in security technologies, BMC TrueSight Server, SCOM, Centreon.
  <!-- Markdown, English B1/B2, VoIP, Visual Studio Code, Excel, BASH, Python3, Linux, Data analyze, Cyber Security, AWS.    -->
 
 <!-- Excellent knowledge of Polish language - Proficiency in English language - Internet proficiency - Ability to work in a fast-paced and changing environment - Reliable computer and internet connection - Ability to follow instructions in English - Confidentiality agreement signing - Ability to pass a language proficiency test and rigorous quality assessment -->
