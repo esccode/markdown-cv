@@ -32,33 +32,21 @@ header-includes:
 
 title: "Jacek Wieteska's Resume"
 author: "Jacek Wieteska, esccode.pl"
-subtitle: "Application for OTM senior consultant, Evolution Nordic"
-keywords: "SQL. PLSQL, Oracle Transportation Management (OTM), Master Data Management, Compliance (ISO, NIST, GDPR), Security Policies and Procedures"
-# keywords: "Technical Writer, SaaS documentation, API Developer Guides, User Guides, Integration Guides, SQL proficiency, API Postman, L1/L2 Support, Agile environment, Software documentation, Cloud services, B2B SaaS, Microsoft, IBM, AWS, Google, Adobe, Cisco, E-learning content, Remote work, Technical writing in English, Cross-departmental communication, Subscription-based business, Product knowledge, Platform documentation, Video documentation, XML tools, Problem-solving documentation, Product SME, Process improvement"
+subtitle: "Application for Information Security Analyst , Avid"
+keywords: "Information Security Analyst, Avid, CyberSecurity, CompTIA, English B2, Technical writing in English, SIEM"
 date: "\\today"
-# keywords": 'compTIA, sy0-701, security, cybersecurity'
-# subject: 'compTIA, sy0-701, security, cybersecurity'
-# categories: cybersecurity
 
 # pandoc file-in.md -o file-out.pdf --pdf-engine=xelatex
 
 ---
 
-**Dear [Hiring Manager],**
+**Dear Hiring Manager,**
 
-I am writing to express my interest in the OTM Senior Consultant role. With over a decade of IT experience, including system implementation, maintenance, and optimization, I have a proven track record in managing large-scale projects. 
-
-I also hold **CompTIA Data+ and CompTIA Security+ certifications**, which further strengthen my expertise in data management and security, ensuring that the solutions I implement are both efficient and secure.
-
-<!-- # Jacek Wieteska -->
-<!-- <div id="webaddress">
-<a>theesccode@gmail.com</a>
-| <a href="https://esccode.pl">esccode.pl</a> | <a>+48 796 292 454</a> | <a>linkedin.com/in/jacek-wieteska-b66b511b9/</a>
-</div> -->
+Cybersecurity professional with a solid understanding of security principles, protocols, and technologies. I hold strong knowledge of network protocols, operating systems, and cloud environments, along with certifications like CompTIA Security+. Known for problem-solving skills, attention to detail, and the ability to effectively communicate complex security concepts to various stakeholders.
 
 ## **Contact**
 
-<a>theesccode@gmail.com</a> | <a>esccode.pl</a> | <a>+48 796 292 454</a>
+<a>theesccode@gmail.com</a> | <a>esccode.pl</a> | www.amazon.com/author/esccode | <a>+48 796 292 454</a>
 
 ## **Licenses & Certifications**
 
@@ -141,7 +129,7 @@ __University of Warsaw__,  Master's degree, Faculty of Law and Administration, W
 
 ## **Skills**
 
-Problem-Solving & Analytical Thinking, Stakeholder Communication, Technical writing, Cybersecurity, data, Technical content creation, Markdown, Git, Visual Studio Code, Strong analytical, Problem-solving, and communication skills, Proficiency in security technologies, BMC TrueSight Server, SCOM, Centreon.
+Problem-Solving & Analytical Thinking, Stakeholder Communication, Technical writing, Cybersecurity, data, Technical content creation, Markdown, Git, Visual Studio Code, Strong analytical, Problem-solving, and communication skills, Proficiency in security technologies, Linux, Python, CyberSecurity, CompTIA, English B2, Bash, CrowdStrike.
  <!-- Markdown, English B1/B2, VoIP, Visual Studio Code, Excel, BASH, Python3, Linux, Data analyze, Cyber Security, AWS.    -->
 
 <!-- Excellent knowledge of Polish language - Proficiency in English language - Internet proficiency - Ability to work in a fast-paced and changing environment - Reliable computer and internet connection - Ability to follow instructions in English - Confidentiality agreement signing - Ability to pass a language proficiency test and rigorous quality assessment -->
